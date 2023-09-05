@@ -1,1 +1,7 @@
-# mk2_web
+#nama : ANNAS RIQMAL BIN ZAIN AZRAI
+#no matriks : 18DDT21F1069
+#class : DDT5A
+
+#nama : AMIRRASYID BIN RAHIMI RAMMEIS
+#no matriks : 18DDT21F1102
+#class : DDT5A
